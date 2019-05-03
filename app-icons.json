@@ -7,10 +7,10 @@
     "gnome-terminal": "terminal",
     "thunderbird": "envelope",
     "jetbrains-idea-ce": "edit",
-    "code": "cog",
+    "code": "cube",
     "nautilus": "folder-open",
     "clementine": "music",
-    "spotify": "music",
+    "spotify": "spotify",
     "vlc": "play",
     "signal": "comment",
     "libreoffice-startcenter": "file-word",
@@ -23,5 +23,6 @@
     "slack": "slack",
     "arandr": "desktop",
     "sublime_text": "sticky-note",
-    "gedit": "sticky-note"
+    "gedit": "sticky-note",
+    "postman": "pinterest-p"
 }
