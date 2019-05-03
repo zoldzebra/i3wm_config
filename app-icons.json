@@ -20,5 +20,8 @@
     "transmission-gtk": "download",
     "gnome-commander": "folder-open",
     "keepassx": "key",
-    "slack": "slack"
+    "slack": "slack",
+    "arandr": "desktop",
+    "sublime_text": "sticky-note",
+    "gedit": "sticky-note"
 }
