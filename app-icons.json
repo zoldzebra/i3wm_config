@@ -24,5 +24,7 @@
     "arandr": "desktop",
     "sublime_text": "sticky-note",
     "gedit": "sticky-note",
-    "postman": "pinterest-p"
+    "postman": "pinterest-p",
+    "evince": "book-open",
+    "mysql-workbench-bin": "database"
 }
