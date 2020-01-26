@@ -3,6 +3,7 @@
     "chromium-browser": "chrome",
     "chrome": "chrome",
     "google-chrome": "chrome",
+    "brave-browser": "gem",
     "x-terminal-emulator": "terminal",
     "gnome-terminal": "terminal",
     "thunderbird": "envelope",

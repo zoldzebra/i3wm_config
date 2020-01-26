@@ -175,6 +175,10 @@ bindsym $mod+Shift+Ctrl+0 move container to workspace number 20
 bindsym $mod+Ctrl+Left move workspace to output left
 bindsym $mod+Ctrl+Right move workspace to output right
 
+# jump to next/prev workspace
+bindsym $mod+Prior workspace prev
+bindsym $mod+Next workspace next
+
 # assign apps to open in a ceratin workspace
 # not working with spotify:
 # assign [class="Spotify Premium"] $workspace5
