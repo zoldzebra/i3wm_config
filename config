@@ -164,9 +164,12 @@ bindsym $mod+Shift+Ctrl+0 move container to workspace number 20
 bindsym $mod+Ctrl+Left move workspace to output left
 bindsym $mod+Ctrl+Right move workspace to output right
 
-# jump to next/prev workspace
-bindsym $mod+Prior workspace prev
-bindsym $mod+Next workspace next
+# jump to next/prev workspace on output
+bindsym $mod+Tab workspace next_on_output
+bindsym $mod+Shift+Tab workspace prev_on_output
+
+# jump back-and-forth between workspaces
+bindsym $mod+x workspace back_and_forth
 
 # assign apps to open in a ceratin workspace
 # not working with spotify:
@@ -176,7 +179,7 @@ bindsym $mod+Next workspace next
 # assign [class="Keepassx"] $workspace10
 # assign [class="Gnome-commander"] $workspace6
 
-# minimal border for windows (= no headings!) 
+# minimal border for windows (= no headings!)
 for_window [class="^.*"] border pixel 1
 
 
